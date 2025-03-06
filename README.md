@@ -1,5 +1,5 @@
 <h1 align="center">
-  ✨ Zefoy Automator ✨
+  Tiktok Tool(Bot)
 </h1>
 
 <h1 align="center">🚀Tiktok Tool 🚀</h1>
@@ -19,10 +19,7 @@
 3. Run the application using:
    > python launcher_gui.py
 4. Enjoy!
-```
 
-updates it)
-```
 
 ## ⚙️ ~ Requirements
 ```ts
