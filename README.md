@@ -13,7 +13,7 @@
 ## 🚀 ~ Setup
 
 ```ts
-1. Download the file
+1. Download the file(https://github.com/Froxxy1011/Tiktok-Bot.git)
 2. Install the required modules with:
    > pip install -r requirements.txt
 3. Run the application using:
