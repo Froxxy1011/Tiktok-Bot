@@ -20,6 +20,9 @@
    > python launcher_gui.py
 4. Enjoy!
 
+## 🤖 ~ Special Cases
+5. If in Windows,Use the Launcher_Gui.exe for easier setup.(Optional)
+
 
 ## ⚙️ ~ Requirements
 > Requirement.txt
