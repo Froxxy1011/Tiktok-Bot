@@ -27,6 +27,7 @@
 ```
 
 ## ⚙️ ~ Requirements
+```ts
 > Requirement.txt
 > Python
 > Chrome (Must Install!)
