@@ -22,7 +22,7 @@
 
 
 ## ⚙️ ~ Requirements
-```ts
+
 > Python
 > Chrome (Make sure to have it installed)
 ```
