@@ -10,14 +10,14 @@ def main():
     
     window = tk.Tk()
     window.title('Tiktok Botting')
-    window.geometry("250x200")  # Adjusted window size
+    window.geometry("250x200")  
     window.resizable(False, False)
     
     
     window.configure(bg='#121212')
     
     
-    font_style = ("Courier New", 12, 'bold')  # Adjusted font size
+    font_style = ("Courier New", 12, 'bold') 
 
 
     label = tk.Label(window, text="Please choose an option", font=font_style, bg='#121212', fg='#00FF00')
@@ -36,7 +36,7 @@ def main():
     likes_button.place(relx=0.5, rely=0.7, anchor='center')
     
     
-    made_by_label = tk.Label(window, text="Made by Froxxy", font=("Courier New", 10), bg='#121212', fg='lime')  # Adjusted font size
+    made_by_label = tk.Label(window, text="Made by Froxxy", font=("Courier New", 10), bg='#121212', fg='lime')  
     made_by_label.place(relx=0.5, rely=0.85, anchor='center')
     made_by_label.bind("<Button-1>", open_github)
     
