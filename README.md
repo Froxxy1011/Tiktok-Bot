@@ -10,6 +10,11 @@
 - Easy to use
 ```
 
+## 🔐 ~ Password
+```ts
+Password = Froxxy1011
+```
+  
 ## 🚀 ~ Setup
 
 ```ts
