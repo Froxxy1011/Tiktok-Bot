@@ -63,6 +63,8 @@ class Rei:
             time.sleep(2)
 
             self.hearts_sent += 10
+            for i in range(10):
+                print(f"{Fore.GREEN}1 Heart Sent{Fore.RESET}")
             print(f"{Fore.GREEN}+10 Hearts Sent{Fore.RESET}")
         except Exception:
             self.hearts_failed += 1
