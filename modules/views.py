@@ -62,6 +62,8 @@ class Rei:
             time.sleep(2)
 
             self.views_sent += 1000
+            for i in range(1000):
+                print(f"{Fore.GREEN} 1 View Sent{Fore.RESET}")
             print(f"{Fore.GREEN}+1000 Views Sent{Fore.RESET}")
         except Exception:
             self.views_failed += 1
