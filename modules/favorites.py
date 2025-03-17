@@ -62,7 +62,10 @@ class Rei:
             time.sleep(2)
 
             self.favorites_sent += 1
+            for i in range(100):
+                print(f"{Fore.GREEN} 1 Favorite Sent{Fore.RESET}")
             print(f"{Fore.GREEN} Favorites Sent{Fore.RESET}")
+            
         except Exception:
             self.favorites_failed += 1
             print(f"{Fore.RED}Failed to send favorites{Fore.RESET}")
