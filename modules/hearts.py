@@ -62,7 +62,7 @@ class Rei:
             confirm_button.click()
             time.sleep(2)
 
-            self.hearts_sent += 1000
+            self.hearts_sent += 10
             print(f"{Fore.GREEN}+10 Hearts Sent{Fore.RESET}")
         except Exception:
             self.hearts_failed += 1
