@@ -20,7 +20,7 @@ Password = Froxxy1011
 ```ts
 1. Download the file (https://github.com/Froxxy1011/Tiktok-Bot.git or Download Zip)
 2. Install the required modules with:
-   > pip install -r requirements.txt
+   > pip install -r requirement.txt
 3. Run the application using:
    > python launcher_gui.py
 4. Enjoy!
